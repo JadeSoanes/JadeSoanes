@@ -1,16 +1,33 @@
-### Hi there 👋
+![Welcome banner - JadeM GitHub, learning python, SQL, viz, AI and web3](GitHubBanner2.jpg)
 
-<!--
-**JadeSoanes/JadeSoanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on
+* Working on a Tableau project using strava data! Coming soon 🔜
 
-Here are some ideas to get you started:
+### Stats
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JadeSoanes&show_icons=true&theme=rose&hide_rank=True)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeSoanes&layout=compact&theme=rose)
+
+</div>
+
+### Find me here
+
+[Linked In](https://www.linkedin.com/in/jade-m-845002178/) 🕴️
+
+Always happy to collaborate on projects and learn something new!
+
+### ...and a quick joke to finish up
+<div align="center">
+  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=pinkish)
+
+</div>
+
+### Credits
+
+* This README includes a joke widget provided by [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes). 
+* The stats in this README come from [anuraghazra/readme-stats](https://github.com/anuraghazra/github-readme-stats)
+* Thank you to the creators for providing these fun additions to my repository!
