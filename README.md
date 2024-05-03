@@ -18,7 +18,7 @@
 [Linked In](https://www.linkedin.com/in/jade-m-845002178/) 👩‍💼
 
 
-[Blog - The Tech Dive](thattechdive.blogspot.com) ✍️
+[Blog - Tech Dive (Search thattechdive.blogspot.com if link is not working)](thattechdive.blogspot.com) ✍️
 
 
 Always happy to collaborate on projects and learn something new - so get in touch!
