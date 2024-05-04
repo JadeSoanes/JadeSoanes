@@ -2,6 +2,7 @@
 
 ### Currently working on
 * Working on a Tableau project using strava data! Coming soon 🔜
+* Also taking part in the Datatalks LLM Zoomcamp in June [More info here](https://github.com/DataTalksClub/llm-zoomcamp) 💻
 
 ### Stats
 <div align="center">
