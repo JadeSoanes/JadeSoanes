@@ -2,6 +2,7 @@
 
 ### Currently working on
 * Working on a Tableau project using strava data! Coming soon 🔜
+* Taking part in the Climate Change AI Summer School 2024 [More info here](https://www.climatechange.ai/events/summer_school2024#virtual-structure)
 
 
 ### Stats
