@@ -2,7 +2,6 @@
 
 ### Currently working on
 * Working on a Tableau project using strava data! Coming soon 🔜
-* Working through the CodeFirstGirls DevOps MOOC - practicing using Docker 🐳
 * Taking part in the Climate Change AI Summer School 2024 [More info here](https://www.climatechange.ai/events/summer_school2024#virtual-structure)
 
 
@@ -12,7 +11,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JadeSoanes&show_icons=true&theme=rose&hide_rank=True)
 
 
-![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeSoanes&layout=compact&theme=rose)
+![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeSoanes&layout=compact&theme=rose&hide=Jupyter%20Notebook)
 
 </div>
 
