@@ -13,6 +13,8 @@
 
 ![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeSoanes&layout=compact&theme=rose&hide=Jupyter%20Notebook)
 
+
+* Most used languages excludes Jupyter Notebook files
 </div>
 
 ### Find me here
