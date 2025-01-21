@@ -1,8 +1,7 @@
 ![Welcome banner - JadeM GitHub, learning python, SQL, viz, AI and web3](GitHubBanner2.jpg)
 
 ### Currently working on
-* Working on a Tableau project using strava data! Coming soon 🔜
-
+* DataTalksClub Data Engineering ZoomCamp [More info here](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
 
 
 ### Stats
@@ -22,7 +21,7 @@
 [Linked In](https://www.linkedin.com/in/jade-m-845002178/) 👩‍💼
 
 
-[Blog - Tech Dive (Search thattechdive.blogspot.com if link is not working)](thattechdive.blogspot.com) ✍️
+[Blog - Tech Dive](thattechdive.blogspot.com) ✍️
 
 
 Always happy to collaborate on projects and learn something new - so get in touch!
